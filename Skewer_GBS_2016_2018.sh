@@ -34,7 +34,7 @@ skewer -L 64 -e -q 0 '/home/stephanie/Desktop/GBS_Raw_Reads/Raw_Reads_2016/Demul
 
 skewer -L 64 -e -q 0 '/home/stephanie/Desktop/GBS_Raw_Reads/Raw_Reads_2016/Demultiplexed_Reads/After_Verify_Chimeras/ver_1952D_R1_val_1.fq' '/home/stephanie/Desktop/GBS_Raw_Reads/Raw_Reads_2016/Demultiplexed_Reads/After_Verify_Chimeras/ver_1952D_R2_val_2.fq' -o '/media/stephanie/External4/GBS_2016/1952D_skewer' /
 
-skewer -L 64 -e -q 0 '/home/stephanie/Desktop/GBS_Raw_Reads/Raw_Reads_2016/Demultiplexed_Reads/After_Verify_Chimeras/ver_1950_R1_val_1.fq' '/home/stephanie/Desktop/GBS_Raw_Reads/Raw_Reads_2016/Demultiplexed_Reads/After_Verify_Chimeras/ver_1950_R2_val_2.fq' -o '/media/stephanie/External4/GBS_2016//1950_skewer' /
+skewer -L 64 -e -q 0 '/home/stephanie/Desktop/GBS_Raw_Reads/Raw_Reads_2016/Demultiplexed_Reads/After_Verify_Chimeras/ver_1950_R1_val_1.fq' '/home/stephanie/Desktop/GBS_Raw_Reads/Raw_Reads_2016/Demultiplexed_Reads/After_Verify_Chimeras/ver_1950_R2_val_2.fq' -o '/media/stephanie/External4/GBS_2016/1950_skewer' /
 
 skewer -L 64 -e -q 0 '/home/stephanie/Desktop/GBS_Raw_Reads/Raw_Reads_2016/Demultiplexed_Reads/After_Verify_Chimeras/ver_1949_R1_val_1.fq' '/home/stephanie/Desktop/GBS_Raw_Reads/Raw_Reads_2016/Demultiplexed_Reads/After_Verify_Chimeras/ver_1949_R2_val_2.fq' -o '/media/stephanie/External4/GBS_2016/1949_skewer' /
 
@@ -162,13 +162,13 @@ skewer -L 64 -e -q 0 '/home/stephanie/Desktop/GBS_Raw_Reads/Raw_Reads_2016/Demul
 
 skewer -L 64 -e -q 0 '/home/stephanie/Desktop/GBS_Raw_Reads/Raw_Reads_2016/Demultiplexed_Reads/After_Verify_Chimeras/ver_453_R1_val_1.fq' '/home/stephanie/Desktop/GBS_Raw_Reads/Raw_Reads_2016/Demultiplexed_Reads/After_Verify_Chimeras/ver_453_R2_val_2.fq' -o '/media/stephanie/External4/GBS_2016/453_skewer' /
 
-skewer -L 64 -e -q 0 '/home/stephanie/Desktop/GBS_Raw_Reads/Raw_Reads_2016/Demultiplexed_Reads/After_Verify_Chimeras/ver_453D_R1_trimmed.fq' '/home/stephanie/Desktop/GBS_Raw_Reads/Raw_Reads_2016/Demultiplexed_Reads/After_Verify_Chimeras/ver_453D_R2_trimmed.fq' -o '/media/stephanie/External4/GBS_2016/453_skewer' /
+skewer -L 64 -e -q 0 '/home/stephanie/Desktop/GBS_Raw_Reads/Raw_Reads_2016/Demultiplexed_Reads/After_Verify_Chimeras/ver_453D_R1_trimmed.fq' '/home/stephanie/Desktop/GBS_Raw_Reads/Raw_Reads_2016/Demultiplexed_Reads/After_Verify_Chimeras/ver_453D_R2_trimmed.fq' -o '/media/stephanie/External4/GBS_2016/453D_skewer' /
 
 skewer -L 64 -e -q 0 '/home/stephanie/Desktop/GBS_Raw_Reads/Raw_Reads_2016/Demultiplexed_Reads/After_Verify_Chimeras/ver_452_R1_val_1.fq' '/home/stephanie/Desktop/GBS_Raw_Reads/Raw_Reads_2016/Demultiplexed_Reads/After_Verify_Chimeras/ver_452_R2_val_2.fq' -o '/media/stephanie/External4/GBS_2016/452_skewer' /
 
 skewer -L 64 -e -q 0 '/home/stephanie/Desktop/GBS_Raw_Reads/Raw_Reads_2016/Demultiplexed_Reads/After_Verify_Chimeras/ver_452D_R1_val_1.fq' '/home/stephanie/Desktop/GBS_Raw_Reads/Raw_Reads_2016/Demultiplexed_Reads/After_Verify_Chimeras/ver_452D_R2_val_2.fq' -o '/media/stephanie/External4/GBS_2016/452D_skewer' /
 
-skewer -L 64 -e -q 0 '/home/stephanie/Desktop/GBS_Raw_Reads/Raw_Reads_2016/Demultiplexed_Reads/After_Verify_Chimeras/ver_451_R1_val_1.fq' '/home/stephanie/Desktop/GBS_Raw_Reads/Raw_Reads_2016/Demultiplexed_Reads/After_Verify_Chimeras/ver_451_R2_val_2.fq' -o '/media/stephanie/External4/GBS_2016/51_skewer' /
+skewer -L 64 -e -q 0 '/home/stephanie/Desktop/GBS_Raw_Reads/Raw_Reads_2016/Demultiplexed_Reads/After_Verify_Chimeras/ver_451_R1_val_1.fq' '/home/stephanie/Desktop/GBS_Raw_Reads/Raw_Reads_2016/Demultiplexed_Reads/After_Verify_Chimeras/ver_451_R2_val_2.fq' -o '/media/stephanie/External4/GBS_2016/451_skewer' /
 
 skewer -L 64 -e -q 0 '/home/stephanie/Desktop/GBS_Raw_Reads/Raw_Reads_2016/Demultiplexed_Reads/After_Verify_Chimeras/ver_451D_R1_val_1.fq' '/home/stephanie/Desktop/GBS_Raw_Reads/Raw_Reads_2016/Demultiplexed_Reads/After_Verify_Chimeras/ver_451D_R2_val_2.fq' -o '/media/stephanie/External4/GBS_2016/451D_skewer' /
 
@@ -230,7 +230,7 @@ skewer -L 64 -e -q 0 '/media/stephanie/External4/Raw_Reads_2018/Fastq_Barcodes_R
 
 skewer -L 64 -e -q 0 '/media/stephanie/External4/Raw_Reads_2018/Fastq_Barcodes_Removed_R1_R2/After_Verify_Chimeras/ver_2013_R1_val_1.fq' '/media/stephanie/External4/Raw_Reads_2018/Fastq_Barcodes_Removed_R1_R2/After_Verify_Chimeras/ver_2013_R2_val_2.fq' -o '/media/stephanie/External4/Raw_Reads_2018/Fastq_Barcodes_Removed_R1_R2/After_Skewer/2013_skewer' /
 
-skewer -L 64 -e -q 0 '/media/stephanie/External4/Raw_Reads_2018/Fastq_Barcodes_Removed_R1_R2/After_Verify_Chimeras/ver_2014_R1_val_1.fq' '/media/stephanie/External4/Raw_Reads_2018/Fastq_Barcodes_Removed_R1_R2/After_Verify_Chimeras/ver_1996_R2_val_2.fq' -o '/media/stephanie/External4/Raw_Reads_2018/Fastq_Barcodes_Removed_R1_R2/After_Skewer/1996_skewer' /
+skewer -L 64 -e -q 0 '/media/stephanie/External4/Raw_Reads_2018/Fastq_Barcodes_Removed_R1_R2/After_Verify_Chimeras/ver_2014_R1_val_1.fq' '/media/stephanie/External4/Raw_Reads_2018/Fastq_Barcodes_Removed_R1_R2/After_Verify_Chimeras/ver_2014_R2_val_2.fq' -o '/media/stephanie/External4/Raw_Reads_2018/Fastq_Barcodes_Removed_R1_R2/After_Skewer/2014_skewer' /
 
 skewer -L 64 -e -q 0 '/media/stephanie/External4/Raw_Reads_2018/Fastq_Barcodes_Removed_R1_R2/After_Verify_Chimeras/ver_2015_R1_val_1.fq' '/media/stephanie/External4/Raw_Reads_2018/Fastq_Barcodes_Removed_R1_R2/After_Verify_Chimeras/ver_2015_R2_val_2.fq' -o '/media/stephanie/External4/Raw_Reads_2018/Fastq_Barcodes_Removed_R1_R2/After_Skewer/2015_skewer' /
 
