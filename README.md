@@ -3,7 +3,7 @@
 Shell scripts that trims GBS reads to 64bp using Skewer and interleaves the files using shuffleSequences.pl in Velvet. 
 
 Before running these scripts, assure the following:
-1. Fastq files have been demultiplexed (Programme: Axe).
+1. Fastq files have been demultiplexed (Requires: Axe).
 2. Fastq files have been trimmed for cut-sites using batch-trim.pl (Requires: Trim Galore!)
 3. Fastq files have already had chimeras verified using verify_chimeras.pl 
 
